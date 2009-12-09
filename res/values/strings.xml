@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RPSActivity</string>
+    <string name="app_name">Ultimate RPS</string>
+    <string name="about">
+Welcome to Ultimate Rock-Paper-Scissors!\n\n
+To play Ultimate RPS, secretly choose Rock, Paper or Scissors.  Then hold the phone in your right hand, and bring it down into your left hand three times.\n\n
+You can play against another Ultimate RPS player or against a player using the old-fashioned analog version of Rock-Paper-Scissors (their hands).\n\n
+Images are used from the Open Clip Art Library (www.openclipart.org).
+    </string>
 </resources>
